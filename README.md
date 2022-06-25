@@ -1,0 +1,30 @@
+# Prova-Design-de-Interface
+Aluna: Andreina Marcon Machado | 6º Período - Graduação Design Gráfico - UNIVALI | Profº Alex Rese
+<!DOCTYPE html>
+<html lang="en">
+<head style="text-align: center;">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prova Andreina Marcon</title>
+</head>
+<body style="text-align: center;">
+    <div style="border: 2px solid; width: 610px; height: 755px; border-radius: 5px; color: rgb(192, 187, 187)">
+        <div style=" width: 595px; height: 50px; float: left; margin: 5px;">
+            <p style="text-align: justify; margin: 10px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; font-size: larger; font-weight: 100; padding-top: 10px; color: rgb(192, 187, 187)"> #CONTEUDO</p>
+        </div>
+        <div style="border: 2px solid; width: 595px; height: 100px; float: left; margin: 5px; border-radius: 5px; color:rgb(194, 11, 124); ">
+            <p style="text-align: justify; margin: 10px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; font-size: larger; padding-top: 30px; font-weight: 100; color:rgb(194, 11, 124)">#TOPO</p>
+        </div>
+        <div style="border: 2px solid; width: 348px; height: 400px; float: left; margin: 5px; border-radius: 5px; color:rgb(128, 225, 128)">
+            <p style="text-align: justify; margin: 10px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; font-size: larger; padding-top: 150px; font-weight: 100; color:rgb(128, 225, 128)"> #CONTEUDO</p>
+        </div>
+        <div style="border: 2px solid; width: 232px; height: 400px; float: left;  margin: 5px; border-radius: 5px; color:rgb(164, 193, 234)"> 
+            <p style="text-align: justify; margin: 10px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; font-size: larger; padding-top: 150px; font-weight: 100; color:rgb(164, 193, 234)"> #MENU</p>
+        </div>
+        <div style="border: 2px solid; width: 595px; height: 150px; float: left; margin: 5px; border-radius: 5px; color:rgb(233, 177, 74)">
+            <p style="text-align: justify; margin: 10px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; font-size: larger; padding-top: 50px; font-weight: 100; color:rgb(233, 177, 74)"> #RODAPE</p>
+            </div>
+    </div>
+</body>
+</html>
